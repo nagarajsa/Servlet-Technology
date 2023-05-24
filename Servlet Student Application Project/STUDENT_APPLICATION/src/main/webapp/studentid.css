@@ -1,0 +1,91 @@
+@charset "ISO-8859-1";
+body {
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201024/pngtree-minimal-cylinder-podium-scene-with-geometrical-forms-image_435987.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+h2{
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+}
+
+
+h3{
+	background-color: white;
+	width: 35%;
+	font-family: sans-serif;
+}
+
+
+table {
+	height: 135px;
+	width: 35%;
+	font-size: 20px;
+	font-family: sans-serif;
+	background-color: silver;
+}
+
+
+label,input{
+	font-size: 15px;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding: 11px;
+	width:45%;
+	border: 0;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+
+button{
+	border: 0px;
+	padding: 4px,0;
+	background-color: green;
+	color: white;
+	font-size: 21px;
+	font-family: inherit;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+
+button:hover{
+	height:50px;
+	width:80px;
+	border: 0px;
+	padding: 4px,0;
+	background-color: green;
+	color: white;
+	font-size: 21px;
+	font-family: inherit;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+
+a {
+	height:60px;
+	width:100px;
+	text-align:left;
+	border: 0px;
+	padding: 5px;
+	margin: 5px;
+	background-color:black;
+	color:white;
+	font-size:20px;
+	font-family:sans-serif;
+    border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}

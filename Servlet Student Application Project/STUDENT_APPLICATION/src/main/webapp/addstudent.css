@@ -1,0 +1,120 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201024/pngtree-minimal-cylinder-podium-scene-with-geometrical-forms-image_435987.jpg");
+    background-repeat: no-repeat;
+    background-size: 210%;
+}
+
+
+h2{
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
+h3{
+	font-size: 25px;
+	font-family: Century Gothic;
+	color: white;
+}
+
+
+.container{
+	height:30%;
+	width:100%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-family: sans-serif;
+}
+
+
+form{
+	background-color: silver;
+	width:50%;
+	display: inline-block;
+	padding: 12px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+
+form input, select, textarea{
+	border: 0px;
+	margin: 5px, 0;
+	padding:11px;
+	font-size: 15px;
+	background-color: white;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+
+label{
+	width: 35%;
+	display: inline-block;
+	margin: 8px;
+}
+
+
+button {
+	border: 0px;
+	padding: 5px;
+	margin: 5px;
+	background-color:black;
+	color:white;
+	font-size:20px;
+	font-family:sans-serif;
+    border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}
+
+button:hover {
+	height:50px;
+	width:100px;
+	border: 0px;
+	padding: 5px;
+	margin: 5px;
+	background-color:black;
+	color:green;
+	font-size:20px;
+	font-family:sans-serif;
+    border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}
+
+
+a{
+	height:60px;
+	width:100px;
+	border: 0px;
+	padding: 5px;
+	margin: 5px;
+	background-color:black;
+	color:white;
+	font-size:20px;
+	font-family:sans-serif;
+    border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}
+
+
+
+
+
+
+
+
+
